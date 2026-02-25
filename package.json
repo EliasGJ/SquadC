@@ -1,0 +1,22 @@
+{
+  "name": "pp",
+  "version": "1.0.0",
+  "description": "Estructura inicial:\r - backend/: Código Node.js/Express\r - frontend/: Vistas EJS y CSS\r - database/: Scripts SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "csv-writer": "^1.6.0",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.18.1",
+    "pdfkit": "^0.17.2"
+  }
+}
